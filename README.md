@@ -1,2 +1,2 @@
 # MCIT-IntroductionToBigData
-It contains assignments and projects of my course 1 in BigData
+It contains assignments and projects of BigData in course ONE
